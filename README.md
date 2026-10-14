@@ -1,1 +1,1 @@
-# VSCode_Snipet
+# This repository is my snipet for Atcoder
